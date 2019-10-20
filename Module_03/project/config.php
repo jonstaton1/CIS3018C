@@ -2,6 +2,6 @@
 
 $dbhost = 'localhost';
 $dbuser = 'Guest1';
-$dbpass = '@$tr0ngPword';
+$dbpass = 'canprovide';
 $dbname = 'genesis';
 ?>

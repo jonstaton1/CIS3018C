@@ -9,12 +9,12 @@ The website for the restaurant Genesis Restorante is meant to provide informatio
 
 Installation instructions:
 
-Use putty or similar to define path and access your webserver
-Link to your webserver with file transfer software
-Unzip main folder on web server
-Open up phpMyAdmin and create guest access login
-Alter the login information in the config.php file to match the account you just created
-Using phpMyAdmin, copy the contents of the GR.txt file into an SQL query that will initialize and populate the database.
+Use putty or similar to define path and access your webserver  
+Link to your webserver with file transfer software  
+Unzip main folder on web server  
+Open up phpMyAdmin and create guest access login  
+Alter the login information in the config.php file to match the account you just created  
+Using phpMyAdmin, copy the contents of the GR.txt file into an SQL query that will initialize and populate the database.  
 
 
 
@@ -24,7 +24,7 @@ The menu items can be altered through the database by using phpMyAdmin to edit t
 The contact page should be altered to include desired email for correspondence, after which, contact form submissions can be received and replied to.
 
 Credits:
-Creator – Jonathan Staton
+Creator â€“ Jonathan Staton
 
 ISC License
 

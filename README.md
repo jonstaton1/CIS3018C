@@ -19,9 +19,9 @@ Using phpMyAdmin, copy the contents of the GR.txt file into an SQL query that wi
 
 
 Usage:
-The information section at the bottom of the home page can be used to provide additional information about the restaurant. Additionally, any information subject to change, such as specials, can be placed on the home page. 
-The menu items can be altered through the database by using phpMyAdmin to edit the menu table items.
-The contact page should be altered to include desired email for correspondence, after which, contact form submissions can be received and replied to.
+The information section at the bottom of the home page can be used to provide additional information about the restaurant. Additionally, any information subject to change, such as specials, can be placed on the home page.   
+The menu items can be altered through the database by using phpMyAdmin to edit the menu table items.  
+The contact page should be altered to include desired email for correspondence, after which, contact form submissions can be received and replied to.  
 
 Credits:
 Creator – Jonathan Staton
